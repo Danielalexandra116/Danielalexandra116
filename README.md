@@ -21,12 +21,14 @@
  </div>
 
 ##
-<div style="display: inline_block">
+<div class="p-3 mb-2 bg-light">
   <h5>Ferramentas:</h5>
-  <img align="center" alt="Dani-SQL" height="30" width="40" <img src="https://img.icons8.com/color/48/000000/sql.png">
+  <img align="center" alt="Dani-windows" height="30" width="40" src="https://img.icons8.com/fluency-systems-filled/48/000000/windows-logo.png">
+  <img align="center" alt="Dani-GitHub" height="30" width="40" src="https://img.icons8.com/windows/32/000000/github.png">
+  <img align="center" alt="Dani-Git" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="Dani-SQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/sql.png">
   <img align="center" alt="Dani-AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
   <img align="center" alt="Dani-POWERBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
   <img align="center" alt="Dani-Pandas" height="30" width="40" src="https://img.icons8.com/color/48/000000/pandas.png">
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/python.png">
-  
-</div>
+ </div>
